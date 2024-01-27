@@ -1,0 +1,112 @@
+.search-bar-content {
+    display: flex;
+    flex-direction: row;
+    justify-items: flex-start;
+    height: 40px;
+    justify-content: flex-start;
+    align-items: center;
+
+    .search-bar-label {
+        display: flex;
+        justify-content: right;
+        padding: 2px;
+        font-size: 14px;
+    }
+    .search-bar-item{
+        padding: 2px;
+        font-size: 14px;
+    }
+    .search-bar-btn{
+        display: flex;
+        flex-direction: row;
+        font-size: 14px;
+        font-weight: 400;
+         padding: 4px;
+         .item{
+            width: 50%;
+         }
+    }
+}
+.dropdow_item_font_size{
+    font-size: 12px;
+}
+.with-3{
+    width: 3%;
+}
+.with-4{
+    width: 4%;
+}
+.with-5{
+    width: 5%;
+}
+.with-6{
+    width: 6%;
+}
+.with-7{
+    width: 7%;
+}
+.with-8{
+    width: 8%;
+}
+.with-9{
+    width: 9%;
+}
+.with-10{
+    width: 10%;
+}
+.with-11{
+    width: 10%;
+}
+.with-12{
+    width: 12%;
+}
+.with-13{
+    width: 13%;
+}
+.with-14{
+    width: 14%;
+}
+.with-15{
+    width: 15%;
+}
+.with-16{
+    width: 16%;
+}
+.with-17{
+    width: 17%;
+}
+.with-18{
+    width: 18%;
+}
+.with-19{
+    width: 19%;
+}
+.with-20{
+    width: 20%;
+}
+.with-21{
+    width: 21%;
+}
+.with-22{
+    width: 22%;
+}
+.with-23{
+    width: 23%;
+}
+.with-26{
+    width: 26%;
+}
+.with-30{
+    width: 30%;
+}
+.with-50{
+    width: 50%;
+}
+.not_content{
+    width: 100%;
+    height: 60ch;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

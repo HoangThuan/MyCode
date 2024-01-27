@@ -1,0 +1,40 @@
+//Core files
+@import "./node_modules/bootstrap/scss/functions";
+@import "./node_modules/bootstrap/scss/variables";
+@import "variables";
+@import "variables-custom";
+@import "variables-dark";
+@import "./node_modules/bootstrap/scss/mixins";
+@import "bootstrap";
+//@import "../../structure/vertical";
+
+// Structure
+@import "../../structure/topbar";
+@import "../../structure/page-head";
+@import "../../structure/footer";
+@import "../../structure/vertical";
+@import "../../structure/horizontal";
+@import "../../structure/two-column";
+@import "../../structure/layouts";
+@import "../../structure/basePage.scss";
+// Components;
+@import "../../components/helper";
+@import "../../components/card";
+@import "../../components/modal";
+@import "../../components/dropdown";
+@import "../../components/pagination";
+
+
+// Bootstrap components
+@import "../../components/root";
+//pages
+@import "../../pages/login";
+@import "../../pages/home";
+@import "../../pages/pay-send";
+@import "../../pages/pay-bank";
+@import "../../pages/pay-bank-script";
+@import "../../pages/pay-bank-card";
+@import "../../pages/behalfPayConfig";
+@import "../../pages/userlist";
+//icon
+@import"../../icons.scss";

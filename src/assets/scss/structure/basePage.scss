@@ -1,0 +1,12 @@
+.base-pages-content{
+    margin: -23px (-$grid-gutter-width * 1) $grid-gutter-width (-$grid-gutter-width * 1);
+}
+.card-customer-content{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
